@@ -46,6 +46,9 @@
 目录点击跳转实例[显示内容](跳转文件)：[1.2 常用软件安装 ](./电脑基础/docsify安装.md)  当是三级目录是会报错
 默认显示README.md对应文件内容。
 ```
-```python
+## 4.链接到github
 
+```python
+1. 通过git push 将docs上传到github服务器
+2. 在settins中下滑到pages选择source,目录定位到docs，点击保存，即可生成对应的个人文档
 ```
